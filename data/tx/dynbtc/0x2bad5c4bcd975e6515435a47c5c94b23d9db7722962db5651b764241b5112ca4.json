@@ -1,0 +1,36 @@
+{
+ "blockNumber": "13857369",
+ "timeStamp": "1640208158",
+ "hash": "0x2bad5c4bcd975e6515435a47c5c94b23d9db7722962db5651b764241b5112ca4",
+ "nonce": "0",
+ "blockHash": "0x4c4397cbec861487fbf1947c6cf25e71efb9172973a7b2ea7f1f3f62316633b8",
+ "transactionIndex": "5",
+ "from": "0xf7b099f0e081b3c3ce64d2c7d72e4151654173a6",
+ "to": "0x3ad58551d87db091e6322b637ea47b4b922213b2",
+ "value": "0",
+ "gas": "250000",
+ "gasPrice": "139623234244",
+ "isError": "1",
+ "txreceipt_status": "0",
+ "input": "0xba57a3ab000000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+ "contractAddress": "",
+ "cumulativeGasUsed": "431759",
+ "gasUsed": "26801",
+ "confirmations": "33915",
+ "timestamp": "2021-12-22T21:22:38.000Z",
+ "info": {
+  "name": "ApproveOneInch",
+  "params": [
+   {
+    "name": "token",
+    "value": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "type": "address"
+   },
+   {
+    "name": "amount",
+    "value": "115792089237316195423570985008687907853269984665640564039457584007913129639935",
+    "type": "uint256"
+   }
+  ]
+ }
+}
