@@ -1,0 +1,46 @@
+{
+ "blockNumber": "13810776",
+ "timeStamp": "1639585535",
+ "hash": "0xe9a8660cc3c3d6bc2f4366ce03433cfdfb6b89473a6e757d2adb07688fb1092e",
+ "nonce": "1",
+ "blockHash": "0x471b90bf52fba76ed57707310db5c5a1739524f530c166c8f5a36588d48357f8",
+ "transactionIndex": "11",
+ "from": "0xf5d1f112b26749d2841aad4663699edf750ccb6a",
+ "to": "0x5f058d0a4d6282d019c22da9f80c1d6d90e8b01c",
+ "value": "0",
+ "gas": "2100000",
+ "gasPrice": "105000000000",
+ "isError": "0",
+ "txreceipt_status": "1",
+ "input": "0x7770b602000000000000000000000000f5d1f112b26749d2841aad4663699edf750ccb6a0000000000000000000000001859dffd0a7b47dba1b4e2a6f6d2103bf9312355000000000000000000000000000000000000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000c0000000000000000000000000000000000000000000000000000000000000001353696e67756c61726974792064796e6173657400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000764796e53494e4700000000000000000000000000000000000000000000000000",
+ "contractAddress": "",
+ "cumulativeGasUsed": "545267",
+ "gasUsed": "93894",
+ "confirmations": "88585",
+ "timestamp": "2021-12-15T16:25:35.000Z",
+ "info": {
+  "name": "configure",
+  "params": [
+   {
+    "name": "controller",
+    "value": "0xf5d1f112b26749d2841aad4663699edf750ccb6a",
+    "type": "address"
+   },
+   {
+    "name": "dam",
+    "value": "0x1859dffd0a7b47dba1b4e2a6f6d2103bf9312355",
+    "type": "address"
+   },
+   {
+    "name": "name",
+    "value": "Singularity dynaset",
+    "type": "string"
+   },
+   {
+    "name": "symbol",
+    "value": "dynSING",
+    "type": "string"
+   }
+  ]
+ }
+}

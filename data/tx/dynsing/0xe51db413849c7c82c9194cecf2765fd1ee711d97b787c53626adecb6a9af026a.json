@@ -1,0 +1,54 @@
+{
+ "blockNumber": "13861470",
+ "timeStamp": "1640263439",
+ "hash": "0xe51db413849c7c82c9194cecf2765fd1ee711d97b787c53626adecb6a9af026a",
+ "nonce": "10",
+ "blockHash": "0xbecf53a2b26e0f1357cbcc07fe7bff5427d0d9cfb2c4578a57161818b06811b0",
+ "transactionIndex": "150",
+ "from": "0x1859dffd0a7b47dba1b4e2a6f6d2103bf9312355",
+ "to": "0x5f058d0a4d6282d019c22da9f80c1d6d90e8b01c",
+ "value": "0",
+ "gas": "250000",
+ "gasPrice": "71420536860",
+ "isError": "0",
+ "txreceipt_status": "1",
+ "input": "0x107783ec000000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2000000000000000000000000993864e43caa7f7f12953ad6feb1d1ca635b875f00000000000000000000000000000000000000000000000000c7e0c8a0296b36000000000000000000000000000000000000000000000009af28cdf7f9660ff700000000000000000000000000000000000000000000000000000000000000a0000000000000000000000000000000000000000000000000000000000000000200000000000000003b6d03400d4a11d5eeaac28ec3f61d100daf4d40471f185280000000000000003b6d03403a925503970d40d36d2329e3846e09fcfc9b6acb",
+ "contractAddress": "",
+ "cumulativeGasUsed": "10333374",
+ "gasUsed": "203904",
+ "confirmations": "37891",
+ "timestamp": "2021-12-23T12:43:59.000Z",
+ "info": {
+  "name": "swapOneInch",
+  "params": [
+   {
+    "name": "_tokenIn",
+    "value": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "type": "address"
+   },
+   {
+    "name": "_tokenOut",
+    "value": "0x993864e43caa7f7f12953ad6feb1d1ca635b875f",
+    "type": "address"
+   },
+   {
+    "name": "amount",
+    "value": "56260672650570550",
+    "type": "uint256"
+   },
+   {
+    "name": "minReturn",
+    "value": "178642261084016611319",
+    "type": "uint256"
+   },
+   {
+    "name": "_data",
+    "value": [
+     "0x00000000000000003b6d03400d4a11d5eeaac28ec3f61d100daf4d40471f1852",
+     "0x80000000000000003b6d03403a925503970d40d36d2329e3846e09fcfc9b6acb"
+    ],
+    "type": "bytes32[]"
+   }
+  ]
+ }
+}

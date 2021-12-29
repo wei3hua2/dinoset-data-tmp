@@ -1,0 +1,31 @@
+{
+ "blockNumber": "13848674",
+ "timeStamp": "1640091756",
+ "hash": "0x036b64865fb7fabd2b132e4df380e1a253349bd64952ae8f4c59272d5c38f30c",
+ "nonce": "69",
+ "blockHash": "0x25341bf80e2ad7ce734ebeea65b81a3951bd92bb8d3d31bd42251a79f9396967",
+ "transactionIndex": "64",
+ "from": "0xf5d1f112b26749d2841aad4663699edf750ccb6a",
+ "to": "0x5f058d0a4d6282d019c22da9f80c1d6d90e8b01c",
+ "value": "0",
+ "gas": "69777",
+ "gasPrice": "61991054583",
+ "isError": "0",
+ "txreceipt_status": "1",
+ "input": "0x339c05280000000000000000000000003bacc6d3d71ed6923336c56bac15cbf0ac988638",
+ "contractAddress": "",
+ "cumulativeGasUsed": "3238865",
+ "gasUsed": "46518",
+ "confirmations": "50687",
+ "timestamp": "2021-12-21T13:02:36.000Z",
+ "info": {
+  "name": "setMintForge",
+  "params": [
+   {
+    "name": "_mintForge",
+    "value": "0x3bacc6d3d71ed6923336c56bac15cbf0ac988638",
+    "type": "address"
+   }
+  ]
+ }
+}

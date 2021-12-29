@@ -1,0 +1,46 @@
+{
+ "blockNumber": "13881300",
+ "timeStamp": "1640527951",
+ "hash": "0x598bf16e46d919204e52a67ae35c1ae4ac37783295c43f2c5705fd7b60eec9ed",
+ "nonce": "30",
+ "blockHash": "0xaf4221e44d8b9fe5359077b7aa5350920abc72ca04a5953e817af3af60792545",
+ "transactionIndex": "63",
+ "from": "0x1859dffd0a7b47dba1b4e2a6f6d2103bf9312355",
+ "to": "0x5f058d0a4d6282d019c22da9f80c1d6d90e8b01c",
+ "value": "0",
+ "gas": "250000",
+ "gasPrice": "45022994515",
+ "isError": "0",
+ "txreceipt_status": "1",
+ "input": "0x84895546000000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2000000000000000000000000f0d33beda4d734c72684b5f9abbebf715d0a793500000000000000000000000000000000000000000000000053444835ec580000000000000000000000000000000000000000000000000000000000347fda0a84",
+ "contractAddress": "",
+ "cumulativeGasUsed": "4440371",
+ "gasUsed": "127439",
+ "confirmations": "18061",
+ "timestamp": "2021-12-26T14:12:31.000Z",
+ "info": {
+  "name": "swapUniswap",
+  "params": [
+   {
+    "name": "_tokenIn",
+    "value": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "type": "address"
+   },
+   {
+    "name": "_tokenOut",
+    "value": "0xf0d33beda4d734c72684b5f9abbebf715d0a7935",
+    "type": "address"
+   },
+   {
+    "name": "_amountIn",
+    "value": "6000000000000000000",
+    "type": "uint256"
+   },
+   {
+    "name": "_amountOutMin",
+    "value": "225483295364",
+    "type": "uint256"
+   }
+  ]
+ }
+}
